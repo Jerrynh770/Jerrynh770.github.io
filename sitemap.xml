@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://angelrose.ga/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://angelrose.ga/</loc>
+</url>
+<url>
+<loc>https://angelrose.ga/angelrose-new-update-log-0409.html</loc>
+<lastmod>2022-04-09T11:32:30+08:00</lastmod>
+<image:image>
+<image:loc>https://angelrose.ga/media\posts\2/Wei-Ming-Ming.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://angelrose.ga/angelrose-new-update-log.html</loc>
+<lastmod>2022-04-03T12:36:38+08:00</lastmod>
+<image:image>
+<image:loc>https://angelrose.ga/media\posts\1/Wei-Ming-Ming.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://angelrose.ga/angelrose-v2-new-update-log-0411.html</loc>
+<lastmod>2022-04-11T19:33:07+08:00</lastmod>
+<image:image>
+<image:loc>https://angelrose.ga/media\posts\3/Wei-Ming-Ming-She-Ji.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
