@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>ar</title>
-    <link href="https://angelrose.tk/feed.xml" rel="self" />
-    <link href="https://angelrose.tk" />
+    <link href="https://jerrynh770.github.io/angelrose.tk/feed.xml" rel="self" />
+    <link href="https://jerrynh770.github.io/angelrose.tk" />
     <updated>2022-04-11T19:33:07+08:00</updated>
     <author>
         <name>AngelRose Dev</name>
     </author>
-    <id>https://angelrose.tk</id>
+    <id>https://jerrynh770.github.io/angelrose.tk</id>
 
     <entry>
         <title>AngelRose v2 New Update Log 0411</title>
         <author>
             <name>AngelRose Dev</name>
         </author>
-        <link href="https://angelrose.tk/angelrose-v2-new-update-log-0411.html"/>
-        <id>https://angelrose.tk/angelrose-v2-new-update-log-0411.html</id>
+        <link href="https://jerrynh770.github.io/angelrose.tk/angelrose-v2-new-update-log-0411.html"/>
+        <id>https://jerrynh770.github.io/angelrose.tk/angelrose-v2-new-update-log-0411.html</id>
 
         <updated>2022-04-11T19:33:07+08:00</updated>
             <summary>
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--full"><img loading="lazy"  src="https://angelrose.tk/media/posts/3/Wei-Ming-Ming-She-Ji.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://angelrose.tk/media/posts/3/responsive/Wei-Ming-Ming-She-Ji-xs.png 300w ,https://angelrose.tk/media/posts/3/responsive/Wei-Ming-Ming-She-Ji-sm.png 480w ,https://angelrose.tk/media/posts/3/responsive/Wei-Ming-Ming-She-Ji-md.png 768w"  alt="" width="1920" height="1080"></figure>
+                <figure class="post__image post__image--full"><img loading="lazy"  src="https://jerrynh770.github.io/angelrose.tk/media/posts/3/Wei-Ming-Ming-She-Ji.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jerrynh770.github.io/angelrose.tk/media/posts/3/responsive/Wei-Ming-Ming-She-Ji-xs.png 300w ,https://jerrynh770.github.io/angelrose.tk/media/posts/3/responsive/Wei-Ming-Ming-She-Ji-sm.png 480w ,https://jerrynh770.github.io/angelrose.tk/media/posts/3/responsive/Wei-Ming-Ming-She-Ji-md.png 768w"  alt="" width="1920" height="1080"></figure>
 <p><strong>Change Log</strong></p>
 <p>Improve </p>
 <p>- ragebot</p>
@@ -47,8 +47,8 @@
         <author>
             <name>AngelRose Dev</name>
         </author>
-        <link href="https://angelrose.tk/angelrose-new-update-log-0409.html"/>
-        <id>https://angelrose.tk/angelrose-new-update-log-0409.html</id>
+        <link href="https://jerrynh770.github.io/angelrose.tk/angelrose-new-update-log-0409.html"/>
+        <id>https://jerrynh770.github.io/angelrose.tk/angelrose-new-update-log-0409.html</id>
 
         <updated>2022-04-09T11:32:30+08:00</updated>
             <summary>
@@ -58,7 +58,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--full"><img loading="lazy"  src="https://angelrose.tk/media/posts/2/Wei-Ming-Ming.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://angelrose.tk/media/posts/2/responsive/Wei-Ming-Ming-xs.png 300w ,https://angelrose.tk/media/posts/2/responsive/Wei-Ming-Ming-sm.png 480w ,https://angelrose.tk/media/posts/2/responsive/Wei-Ming-Ming-md.png 768w"  alt="" width="1080" height="279"></figure>
+                <figure class="post__image post__image--full"><img loading="lazy"  src="https://jerrynh770.github.io/angelrose.tk/media/posts/2/Wei-Ming-Ming.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jerrynh770.github.io/angelrose.tk/media/posts/2/responsive/Wei-Ming-Ming-xs.png 300w ,https://jerrynh770.github.io/angelrose.tk/media/posts/2/responsive/Wei-Ming-Ming-sm.png 480w ,https://jerrynh770.github.io/angelrose.tk/media/posts/2/responsive/Wei-Ming-Ming-md.png 768w"  alt="" width="1080" height="279"></figure>
 <p> </p>
 <p><strong>Changelog</strong></p>
 <p>Fix</p>
@@ -79,8 +79,8 @@
         <author>
             <name>AngelRose Dev</name>
         </author>
-        <link href="https://angelrose.tk/angelrose-new-update-log.html"/>
-        <id>https://angelrose.tk/angelrose-new-update-log.html</id>
+        <link href="https://jerrynh770.github.io/angelrose.tk/angelrose-new-update-log.html"/>
+        <id>https://jerrynh770.github.io/angelrose.tk/angelrose-new-update-log.html</id>
 
         <updated>2022-04-03T12:36:38+08:00</updated>
             <summary>
@@ -90,7 +90,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--full"><img loading="lazy"  src="https://angelrose.tk/media/posts/1/Wei-Ming-Ming.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://angelrose.tk/media/posts/1/responsive/Wei-Ming-Ming-xs.png 300w ,https://angelrose.tk/media/posts/1/responsive/Wei-Ming-Ming-sm.png 480w ,https://angelrose.tk/media/posts/1/responsive/Wei-Ming-Ming-md.png 768w"  alt="" width="1080" height="279"></figure>
+                <figure class="post__image post__image--full"><img loading="lazy"  src="https://jerrynh770.github.io/angelrose.tk/media/posts/1/Wei-Ming-Ming.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://jerrynh770.github.io/angelrose.tk/media/posts/1/responsive/Wei-Ming-Ming-xs.png 300w ,https://jerrynh770.github.io/angelrose.tk/media/posts/1/responsive/Wei-Ming-Ming-sm.png 480w ,https://jerrynh770.github.io/angelrose.tk/media/posts/1/responsive/Wei-Ming-Ming-md.png 768w"  alt="" width="1080" height="279"></figure>
 <p> </p>
 <p><strong>Change Log</strong></p>
 <p>Improve </p>
