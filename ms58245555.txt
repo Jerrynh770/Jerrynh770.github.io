@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Microsoft 365 網域擁有權的驗證檔案放置於網站根目錄",
+  "Domain": "AngelRose.tk",
+  "Id": "ae68d42b-71bd-49ac-8679-128caa9a735b"
+}
